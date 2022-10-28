@@ -16,5 +16,5 @@
 <img align="left" alt="api" width="26px" src="https://cdn.usetopscore.com/uploads/987/media_items/api-picture.512.284.s.png"/> 
 <img align="left" alt="postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
 <img align="left" alt="mysql" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
-<br/>
+
 [![Élen's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenbrodt&theme=ocean_dark)](https://github.com/elenbrodt/github-readme-stats)
