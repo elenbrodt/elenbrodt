@@ -1,8 +1,7 @@
 👋 Hi, I’m Élen!
 <br/>
-✨ I'm a FrontEnd Developer Jr currently studying at Gama Academy's FullStack Developer program.
 
-<h3>Leanguages and Tools</h3>
+<h3>Languages and Tools</h3>
 
 <img  alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" /><img  alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img alt="Javascript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
