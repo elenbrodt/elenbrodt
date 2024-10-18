@@ -14,4 +14,4 @@
 <img  alt="postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
 <img  alt="mysql" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/>
 
-[![Élen's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenbrodt&theme=ocean_dark)](https://github.com/elenbrodt/github-readme-stats)
+<!--[![Élen's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenbrodt&theme=ocean_dark)](https://github.com/elenbrodt/github-readme-stats)
