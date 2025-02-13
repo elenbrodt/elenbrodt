@@ -1,7 +1,5 @@
 <h1>👋 Hi, I’m Élen!</h1>
 
-<p>I am an Electrical Engineer and a Web Developer.</p>
-
 <h3>My skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,js,tailwind,bootstrap,git,postman,html,css,mysql,figma)](https://skillicons.dev)
